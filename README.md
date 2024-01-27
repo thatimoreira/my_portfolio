@@ -3,7 +3,8 @@ Front-end skills practice project
 
 # 🚀 Thatiana's Portfolio
 
-This portfolio project was launched as part of the Oracle One program—a journey to master front-end skills. 🌟 It's not just a collection of code; it's a visual journey through my skills and projects. Explore and get to know more about my work, projects, resume, and how to reach out to me.
+This portfolio project was developed as part of the Oracle One program — an initiative aimed at honing front-end skills. 🌟 It's not just a collection of code; it's a visual journey through my skills and projects. Explore and get to know more about my work, projects, resume, and how to reach out to me.
+
 
 ## 🎨 Features
 
@@ -17,15 +18,15 @@ This portfolio project was launched as part of the Oracle One program—a journe
 **Explore and Enjoy:**
 Navigate through the various sections to discover more about my skills and projects.
 
-📸 Screenshots
+##📸 Screenshots
 
-📬 Connect With Me
+##📬 Connect With Me
 GitHub
 Instagram
 
 Feel free to reach out! 🌈✨
 
-🌟 Acknowledgments
+##🌟 Acknowledgments
 
 This project was made possible with the support of the Oracle One program. Thanks for the incredible learning experience!
 
