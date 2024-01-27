@@ -1,2 +1,33 @@
 # portfolio
 Front-end skills practice project
+
+# 🚀 Thatiana's Portfolio
+
+This portfolio project was launched as part of the Oracle One program—a journey to master front-end skills. 🌟 It's not just a collection of code; it's a visual journey through my skills and projects. Explore and get to know more about my work, projects, resume, and how to reach out to me.
+
+## 🎨 Features
+
+- **Interactive Design**: Engage with a visually appealing and user-friendly interface.
+- **Project Showcase**: Explore my latest and greatest projects, each with its own unique touch.
+- **Resume**: Dive into my professional journey and expertise.
+- **Contact Information**: Connect with me easily through the provided contact details.
+
+## 🚧 How to Use
+
+**Explore and Enjoy:**
+Navigate through the various sections to discover more about my skills and projects.
+
+📸 Screenshots
+
+📬 Connect With Me
+GitHub
+Instagram
+
+Feel free to reach out! 🌈✨
+
+🌟 Acknowledgments
+
+This project was made possible with the support of the Oracle One program. Thanks for the incredible learning experience!
+
+
+Crafted with ❤️ by Thatiana Moreira
