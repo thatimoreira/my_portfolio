@@ -44,4 +44,4 @@ This project was made possible with the support of the Oracle One program. Thank
 
 
 
-Crafted with ❤️ by Thatiana Moreira
+Crafted by Thatiana Moreira
