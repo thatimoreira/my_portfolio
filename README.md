@@ -40,8 +40,3 @@ Feel free to reach out! 🌈✨
 ## 🌟 Acknowledgments
 
 This project was made possible with the support of the Oracle One program. Thanks for the incredible learning experience!
-
-
-
-
-Crafted by Thatiana Moreira
