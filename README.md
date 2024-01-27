@@ -18,7 +18,7 @@ This portfolio project was developed as part of the Oracle One program — an in
 **Explore and Enjoy:**
 Navigate through the various sections to discover more about my skills and projects.
 
-##📸 Screenshots
+## 📸 Screenshots
 
 ##📬 Connect With Me
 GitHub
@@ -26,7 +26,7 @@ Instagram
 
 Feel free to reach out! 🌈✨
 
-##🌟 Acknowledgments
+## 🌟 Acknowledgments
 
 This project was made possible with the support of the Oracle One program. Thanks for the incredible learning experience!
 
