@@ -7,14 +7,20 @@ header {
     color: #000000;
 }
 
+body {
+    background-color: #ffffff;
+}
+
 .logo-container {
     margin-right: 20px; /* Adjust this later, when logo is finished */
+    background: #ffffff;
 }
 
 nav {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: #ffffff;
 }
 
 .nav-link {
@@ -32,6 +38,14 @@ main {
 
 section {
     width: 35%;
+}
+
+.github{
+    color: #ffffff;
+}
+
+.linkedin {
+    color: #000000;
 }
 
 img {
