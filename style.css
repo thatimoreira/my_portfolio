@@ -1,3 +1,4 @@
+/* Removes default margin and padding settings, giving more control of the element's position*/
 * {
     margin: 0;
     padding: 0;
