@@ -1,3 +1,7 @@
+body {
+    background-color: #ffffff;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -7,15 +11,6 @@ header {
     color: #000000;
 }
 
-body {
-    background-color: #ffffff;
-}
-
-.logo-container {
-    margin-right: 20px; /* Adjust this later, when logo is finished */
-    background: #ffffff;
-}
-
 nav {
     display: flex;
     justify-content: center;
@@ -23,29 +18,45 @@ nav {
     background: #ffffff;
 }
 
-.nav-link {
+.header__nav--logo {
+    margin-right: 20px; /* Adjust this later, when logo is finished */
+}
+
+.header__nav--menu {
     margin: 0 10px;
     color: ;
     text-decoration: none;
 }
 
-main {
+.miniBio {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
 }
 
-section {
-    width: 35%;
+.miniBio__content {
+
 }
 
-.github{
-    color: #ffffff;
+.miniBio__highlight-title {
+    color: rgb(110, 6, 242);
 }
 
-.linkedin {
+.highlight-text {
+    color: #31304D;
+}
+
+.miniBio__github-link {
+    color: rgb(110, 6, 242);
+}
+
+.miniBio__linkedin-link {
     color: #000000;
+}
+
+.miniBio__picture {
+    width: 35%;
 }
 
 img {
