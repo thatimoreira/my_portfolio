@@ -10,38 +10,46 @@
         <title>Thatiana's Portfolio</title>
     </head>
     <body>
-        <header>
-            <div class="logo-container">
-                <img src="#" alt="Logo da desenvolvedora Thatiana Moreira">
-            </div>
+        <header class=" header initialPage">
+            <nav class="container header__nav">
+                <img class="header__nav--logo" src="#" alt="Logo da desenvolvedora Thatiana Moreira">
+                <div class="header__nav--menu"></div>
+                    <a class="header__nav--menu-link" href="#home" target="blank">
+                        <span>Home</span>
+                    </a>
+                    <a class="nav-link" href="#projects" target="blank">
+                        <span>Projects</span>
+                    </a>
+                    <a class="nav-link" href="#about" target="_blank">
+                        <span>About</span>
+                    </a>
+                </div>
+            </nav>
         </header>
-        <nav>
-            <a class="nav-link" href="#home" target="blank">Home</a>
-            <a class="nav-link" href="#projects" target="blank">Projects</a>
-            <a class="nav-link" href="#about" target="_blank">About</a>
-        </nav>
-        <main>
-            <section>
-                <h3>Hi, I'm Thatiana</h3>
-                <h1><strong>Back</strong>end</h1>
-                <h1>Developer</h1>
-                <p>I'm a Brazilian back-end developer, committed to creating</p>
-                <p>applications that not only <strong>meet your technical needs</strong></p>
-                <p>but also <strong>resonate with your users</strong>.</p>
-                <a class="github" href="https://github.com/thatimoreira">Github</a>
-                <a class="linkedin" href="https://www.linkedin.com/in/thatianamoreira/">LinkedIn</a>
-            </section>
-            <section>
-                <img src="img/ThatiMoreira_3x4.jpg" alt="Foto de Thatiana sorrindo">
-            </section>
-            
-        </main>
-        <footer>
+        <section class="dev-mini-bio">
+            <main>
+                <section class="miniBio__content">
+                    <h3>Hi, I'm Thatiana</h3>
+                    <h1><strong class="highlight-area">Back</strong>end</h1>
+                    <h1>Developer</h1>
+                    <p>I'm a Brazilian back-end developer, committed to creating</p>
+                    <p>applications that not only <strong class="highlight-title">meet your technical needs</strong></p>
+                    <p>but also <strong class="highlight-title">resonate with your users</strong>.</p>
+                    <a class="github" href="https://github.com/thatimoreira">Github</a>
+                    <a class="linkedin" href="https://www.linkedin.com/in/thatianamoreira/">LinkedIn</a>
+                </section>
+                <section class="miniBio__picture">
+                    <img src="img/ThatiMoreira_3x4.jpg" alt="Foto de Thatiana sorrindo">
+                </section>
+                
+            </main>
+        </section>
+        <footer class="footer">
             <div class="footer-copyright">
                 &copy; 2024 Thatiana Moreira
             </div>
             <div class="footer-credits">
-                Inspired at <a href="https://dribbble.com/shots/23212629-Purplefolio-Framer-Portfolio-Website-For-Web-Developers">Luca da Corte</a>'s design
+                Inspired by <a href="https://dribbble.com/shots/23212629-Purplefolio-Framer-Portfolio-Website-For-Web-Developers">Luca da Corte</a>'s design
             </div>
         </footer>
     </body>
