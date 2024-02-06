@@ -6,6 +6,7 @@
 }
 
 body {
+    height: 100vh;  /* sets page height  |  vh: viewport height*/
     background-color: #ffffff;
 }
 
